@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "funktsioonid", "funktsioonid.pyproj", "{4F272FFE-2B33-4FBE-BDBE-BE59E08306F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F272FFE-2B33-4FBE-BDBE-BE59E08306F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F272FFE-2B33-4FBE-BDBE-BE59E08306F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995CB049-E8EF-4E59-A5C4-3F540CDB2810}
+	EndGlobalSection
+EndGlobal
